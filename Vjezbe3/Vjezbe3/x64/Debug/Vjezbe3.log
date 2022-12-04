@@ -1,0 +1,5 @@
+﻿  stl.c
+C:\Users\becic\OneDrive\Desktop\spa_vjezbe\Vjezbe3\Vjezbe3\stl.c(15,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\becic\OneDrive\Desktop\spa_vjezbe\Vjezbe3\Vjezbe3\stl.c(28,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\becic\OneDrive\Desktop\spa_vjezbe\Vjezbe3\Vjezbe3\stl.c(38,16): warning C4018: '<': signed/unsigned mismatch
+  Vjezbe3.vcxproj -> C:\Users\becic\OneDrive\Desktop\spa_vjezbe\Vjezbe3\x64\Debug\Vjezbe3.exe

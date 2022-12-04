@@ -1,0 +1,4 @@
+﻿  Vjezba4_main.cpp
+C:\Users\becic\OneDrive\Desktop\spa_vjezbe\Vjezba4\Vjezba4\Vjezba4_main.cpp(116,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\becic\OneDrive\Desktop\spa_vjezbe\Vjezba4\Vjezba4\Vjezba4_main.cpp(117,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Vjezba4.vcxproj -> C:\Users\becic\OneDrive\Desktop\spa_vjezbe\Vjezba4\x64\Debug\Vjezba4.exe
